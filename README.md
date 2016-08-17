@@ -7,4 +7,4 @@
 
 ####2016-8-17
 
-- [Selective Search for Object Recognition][[PDF](https://ivi.fnwi.uva.nl/isis/publications/2013/UijlingsIJCV2013/UijlingsIJCV2013.pdf)]
+- [Selective Search for Object Recognition](note/2016-8-17.md)[[PDF](https://ivi.fnwi.uva.nl/isis/publications/2013/UijlingsIJCV2013/UijlingsIJCV2013.pdf)]
