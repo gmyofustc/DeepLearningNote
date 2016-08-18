@@ -8,3 +8,7 @@
 ####2016-8-17
 
 - [Selective Search for Object Recognition](note/2016-8-17.md)[[PDF](https://ivi.fnwi.uva.nl/isis/publications/2013/UijlingsIJCV2013/UijlingsIJCV2013.pdf)]
+
+####2016-8-18
+
+- [Rich feature hierarchies for accurate object detection and semantic segmentation][[arXiv](https://arxiv.org/pdf/1311.2524v5.pdf)]
