@@ -12,3 +12,6 @@
 ####2016-8-18
 
 - [Rich feature hierarchies for accurate object detection and semantic segmentation][[arXiv](https://arxiv.org/pdf/1311.2524v5.pdf)]
+
+###2016-9-2
+- [Benchmarking State-of-the-Art Deep Learning Software Tools][[arXiv](http://arxiv.org/pdf/1608.07249v2.pdf)]
